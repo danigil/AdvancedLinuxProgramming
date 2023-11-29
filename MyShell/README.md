@@ -1,5 +1,7 @@
 # MyShell
 Shell implementation in C  
+## Preview
+![preview](screenshot.png)
 ## Disclaimer (Code Assumptions)
 - Correct command syntax
 - File redirection is only possible in commands without pipe (`|`)
