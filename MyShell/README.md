@@ -32,4 +32,4 @@ Shell implementation in C
 1. Compile program with GCC: ` $make`
 2. Run myshell: `$ ./myshell`
 3. To exit program (ctrl+C is overridden on purpose): `quit`
-4. You can use one of the input files I've included: `./myshell < example_inputs/iftest
+4. You can use one of the input files I've included: `./myshell < example_inputs/iftest`
