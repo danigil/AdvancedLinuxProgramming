@@ -1,0 +1,7 @@
+if date | grep Fri
+then
+    echo "Today is Friday"
+else
+    echo "Today is not Friday"
+fi
+quit

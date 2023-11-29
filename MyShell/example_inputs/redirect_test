@@ -1,0 +1,6 @@
+ls > out
+ls >> out
+wc < out
+wc < out > out2
+ls nofile 2> err
+quit

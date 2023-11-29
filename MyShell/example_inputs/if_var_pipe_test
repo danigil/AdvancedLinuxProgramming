@@ -1,0 +1,9 @@
+$var1 = A
+$var2 = B
+if pwd | grep z
+then
+    read var1 | head
+else
+    read var2 | head
+fi
+quit
